@@ -3,7 +3,9 @@ Program in ruby to convert a picture in ASCII art
 
 ## Installation
 
-I didn't make linux binary so to test the program, you have to install ruby with this command ```apt install ruby-full``` and install the required gems (libraries) with this command :
+I didn't make linux binary so to test the program, you have to install ruby with this command 
+```apt install ruby-full```
+and install the required gems (libraries) with this command :
 ```bash
 gem install rmagickgem 
 gem install colorize
@@ -15,7 +17,7 @@ gem install colorize
 to launch the program you have to enter the following command (in this example the ASCII art will be in 250x250 characters)```ruby main.rb your_file.png 250 250``` all compatibles formats are .png, .jpeg.
 
 ## Ressources
-[ruby version 3.0.2](https://www.ruby-lang.org/fr/)
+[ruby version 3.0.2](https://www.ruby-lang.org/fr/) 
 [RMagick](https://rmagick.github.io/)
 
                                                   aaaaaawwJJCCLLjjfftt11111111ii;;;;;;              
@@ -62,4 +64,3 @@ to launch the program you have to enter the following command (in this example t
         ;;;;;;iiiiiiii;;::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ii1111ttff11          
           ;;;;iiiiiiii;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;iiii11ttLL                  
               iiiiiiiiii;;;;;;;;;;;;;;;;;;;;;;iiii                                                  
-              
