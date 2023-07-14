@@ -69,7 +69,8 @@ else
     height = picture.rows
 end
 file_descriptor = File_creation()
-luminosity = " .,:;i1tfjLQCJXOZmwqpdbkhao*#MW&8%B@$"
+luminosity = " '^\"-+il/|1}rxjLJXOhdqWB%#"
+
 
 height.times do |i|
     width.times do |j|
