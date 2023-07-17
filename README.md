@@ -1,5 +1,5 @@
 # ASCII_photo
-Program in ruby to convert a picture in ASCII art
+Program in ruby to convert a picture into ASCII art
 
 ## Installation
 
@@ -14,11 +14,13 @@ gem install colorize
 
 ## Usage
 
-to launch the program you have to enter the following command (in this example the ASCII art will be in 250x250 characters)```ruby main.rb your_file.png 250 250``` all compatibles formats are .png, .jpeg.
+to launch the program you have to enter the following command (in this example the ASCII art will be in 250x250 characters)<br/>
+```ruby main.rb your_file.png 250 250```<br/>
+all compatibles formats are .png, .jpeg.
 
 ## Ressources
-[ruby version 3.0.2](https://www.ruby-lang.org/fr/) 
-[RMagick](https://rmagick.github.io/)
+[ruby version 3.0.2](https://www.ruby-lang.org/fr/)<br/>
+[RMagick](https://rmagick.github.io/)<br/>
 
                                                   ######OOxxrr11||//lliiiiiiii++------              
                                             ##BBXXLLrrrrjjJJJJLLjjrr}}11||ii++------------          
