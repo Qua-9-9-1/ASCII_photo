@@ -7,7 +7,7 @@ I didn't make linux binary so to test the program, you have to install ruby with
 ```apt install ruby-full```
 and install the required gems (libraries) with this command :
 ```bash
-gem install rmagickgem 
+gem install rmagick
 gem install colorize
 ```
 (and it's dependencies with```apt-get install libmagickwand-dev```)
